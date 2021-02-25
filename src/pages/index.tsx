@@ -28,6 +28,7 @@ export default function Home() {
           <ChallangeBox />
         </div>
       </section>
+      
     </div>
   )
 }
